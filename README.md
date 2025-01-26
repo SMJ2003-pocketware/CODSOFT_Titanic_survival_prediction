@@ -17,3 +17,5 @@ In this task, I worked with the Titanic dataset to build a machine learning mode
 ![Image](https://github.com/user-attachments/assets/7222b051-107b-4386-bf29-7a80176a20bd)
 
 ![Image](https://github.com/user-attachments/assets/0743d590-571d-46c6-af40-644f378708f9)
+
+![Image](https://github.com/user-attachments/assets/94c1c54f-0981-40a6-b0fd-4c8b7d7bf8b3)
